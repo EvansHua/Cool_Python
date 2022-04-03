@@ -1,4 +1,4 @@
-# Draw Mickey vis Turtle
+# Drawaing Mickey vis Turtle
 # By Evans.
 # Last modified on Oct 29, 2017.
 # Changes:
