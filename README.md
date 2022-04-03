@@ -21,4 +21,4 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
 ## Fun Projects
 
 * [Drawing](https://github.com/EvansHua/Python_Corner/tree/main/Fun%20Projects/Drawing)
-  * [Mickey](https://github.com/EvansHua/Python_Corner/blob/main/Fun%20Projects/Drawing/Mickey/Mickey.py) - Drawing Mickey via Turtle. My VERY FIRST Python project developed in my Grade 3! Have fun!
+  * [Mickey](https://github.com/EvansHua/Python_Corner/blob/main/Fun%20Projects/Drawing/Mickey/Mickey.py) - Drawing Mickey via Turtle. My VERY FIRST Python project developed in Grade 3! Have fun!
