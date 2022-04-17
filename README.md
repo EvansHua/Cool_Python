@@ -6,6 +6,7 @@ A wonderful Python Corner of awesome Python projects, libraries, frameworks and 
 - [Data Science](#Data-Science)
 - [Development Tools](#Development-Tools)
 - [Fun Projects](#Fun-Projects)
+- [Graphics](#Graphics)
 
 ---
 ## CheckiO Challenges Python
@@ -29,6 +30,9 @@ The modules described in this chapter help you write software.
 ## Fun Projects
 * [Drawing](https://github.com/EvansHua/Python_Corner/tree/main/Fun%20Projects/Drawing)
   * [Mickey](https://github.com/EvansHua/Python_Corner/blob/main/Fun%20Projects/Drawing/Mickey/Mickey.py) - Drawing Mickey via Turtle. My VERY FIRST Python project developed in Grade 3! Have fun!
+## Graphics
+Libraries for graphics.
+* [turtle](https://pythonturtle.org/)-Turtle can draw intricate shapes using programs that repeat simple moves. It is a popular way for introducing programming to kids.
 
 <!---
 AI, artificial intelligence, data science, data visualization, machine learning, kid, python, 
