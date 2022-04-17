@@ -18,6 +18,9 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
   * [5 The Most Frequent](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/5%20The%20Most%20Frequent.py)-Determine the most frequently occurring string in the sequence.
   * [6 End Zeros](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/6%20End%20Zeros.py)-How many zeros are at the end?
 ## Data Science
+Libraries for Data Science.
+* [Numpy](https://numpy.org/)-The fundamental package for scientific computing with Python.
+* [Pandas](https://pandas.pydata.org/)-A fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
 ## Fun Projects
 * [Drawing](https://github.com/EvansHua/Python_Corner/tree/main/Fun%20Projects/Drawing)
   * [Mickey](https://github.com/EvansHua/Python_Corner/blob/main/Fun%20Projects/Drawing/Mickey/Mickey.py) - Drawing Mickey via Turtle. My VERY FIRST Python project developed in Grade 3! Have fun!
