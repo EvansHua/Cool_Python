@@ -10,8 +10,7 @@ A wonderful Python Corner of awesome Python projects, libraries, frameworks and 
 
 ---
 ## CheckiO Challenges Python
-My path to conquer CheckiO Python challenges starting 2022. 
-py.CheckiO is online Python practices. Improve your coding skills by solving coding challenges and exercises online with your friends in a fun way. 
+py.CheckiO is online Python practices. Improve your coding skills by solving coding challenges and exercises online with your friends in a fun way. My path to conquer CheckiO Python challenges starting 2022 during elementary school. 
 * [INITIATION](https://github.com/EvansHua/Python_Corner/tree/main/CheckiO%20Challenges%20Python/INITIATION)
   * [1 Multiply (Intro)](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/1%20Multiply%20(Intro).py) - Into mission. How to solve missions on CheckiO?
   * [2 First Word](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/2%20First%20Word.py) - Find the first word in a string.
