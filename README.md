@@ -3,8 +3,8 @@
 A wonderful Python Corner of awesome Python projects, libraries, frameworks and resources, covering my Python learning journey since elementary school. Enjoy!
 
 - [CheckiO Challenges Python](#CheckiO-Challenges-Python)
-- [Data Science](##Data-Science)
-- [Development Tools](##Development-Tools)
+- [Data Science](#Data-Science)
+- [Development Tools](#Development-Tools)
 - [Fun Projects](#Fun-Projects)
 
 ---
