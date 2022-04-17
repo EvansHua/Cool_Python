@@ -1,4 +1,4 @@
-# Python_Corner
+# Python Corner
 
 A wonderful Python Corner of awesome Python projects, libraries, frameworks and resources, covering my Python learning journey since elementary school. Enjoy!
 
