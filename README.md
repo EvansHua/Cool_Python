@@ -1,6 +1,6 @@
 # Python_Corner
 
-A wonderful Python Corner of awesome Python projects, libraries, frameworks and resources, covering my Python journey since elementary school. Enjoy!
+A wonderful Python Corner of awesome Python projects, libraries, frameworks and resources, covering my Python learning journey since elementary school. Enjoy!
 
 - [CheckiO Challenges Python](#CheckiO-Challenges-Python)
 - [Fun Projects](#Fun-Projects)
