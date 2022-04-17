@@ -24,6 +24,7 @@ Libraries for Data Science.
 * [pandas](https://pandas.pydata.org/)-A fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
 * [statistics](https://docs.python.org/3/library/statistics.html)-a built-in Python library for descriptive statistics.
 ## Development Tools
+The modules described in this chapter help you write software.
 * [typing](https://docs.python.org/3/library/typing.html)-Provides runtime support for type hints.
 ## Fun Projects
 * [Drawing](https://github.com/EvansHua/Python_Corner/tree/main/Fun%20Projects/Drawing)
