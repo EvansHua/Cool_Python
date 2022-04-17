@@ -3,6 +3,7 @@
 A wonderful Python Corner of awesome Python projects, libraries, frameworks and resources, covering my Python learning journey since elementary school. Enjoy!
 
 - [CheckiO Challenges Python](#CheckiO-Challenges-Python)
+- [Data Science](##Data-Science)
 - [Fun Projects](#Fun-Projects)
 
 ---
@@ -19,7 +20,7 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
   * [4 Number Length](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/4%20Number%20Length.py)-How many digits are in the given positive number?
   * [5 The Most Frequent](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/5%20The%20Most%20Frequent.py)-Determine the most frequently occurring string in the sequence.
   * [6 End Zeros](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/6%20End%20Zeros.py)-How many zeros are at the end?
-
+## Data Science
 ## Fun Projects
 
 * [Drawing](https://github.com/EvansHua/Python_Corner/tree/main/Fun%20Projects/Drawing)
