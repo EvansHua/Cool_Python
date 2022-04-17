@@ -29,3 +29,7 @@ The modules described in this chapter help you write software.
 ## Fun Projects
 * [Drawing](https://github.com/EvansHua/Python_Corner/tree/main/Fun%20Projects/Drawing)
   * [Mickey](https://github.com/EvansHua/Python_Corner/blob/main/Fun%20Projects/Drawing/Mickey/Mickey.py) - Drawing Mickey via Turtle. My VERY FIRST Python project developed in Grade 3! Have fun!
+
+<!---
+AI, artificial intelligence, data science, data visualization, machine learning, kid, python, 
+--->
