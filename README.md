@@ -14,9 +14,9 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
 
 * [INITIATION](https://github.com/EvansHua/Python_Corner/tree/main/CheckiO%20Challenges%20Python/INITIATION)
   * [1 Multiply (Intro)](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/1%20Multiply%20(Intro).py)-Write a function that will receive 2 numbers as input and it should return the multiplication of these 2 numbers.
-  * [2 First Word](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/2%20First%20Word.py)
-  * [3 Acceptable Password I](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/3%20Acceptable%20Password%20I.py)
-  * [4 Number Length](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/4%20Number%20Length.py)
+  * [2 First Word](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/2%20First%20Word.py)-Find the first word in a string.
+  * [3 Acceptable Password I](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/3%20Acceptable%20Password%20I.py)-the length should be bigger than 6.
+  * [4 Number Length](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/4%20Number%20Length.py)-How many digits are in the given positive number?
   * [5 The Most Frequent](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/5%20The%20Most%20Frequent.py)
   * [6 End Zeros](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/6%20End%20Zeros.py)
 
