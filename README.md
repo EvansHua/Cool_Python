@@ -18,6 +18,7 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
   * [3 Acceptable Password I](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/3%20Acceptable%20Password%20I.py)
   * [4 Number Length](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/4%20Number%20Length.py)
   * [5 The Most Frequent](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/5%20The%20Most%20Frequent.py)
+  * [6 End Zeros](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/6%20End%20Zeros.py)
 
 ## Fun Projects
 
