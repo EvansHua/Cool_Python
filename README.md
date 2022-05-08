@@ -29,6 +29,7 @@ The modules described in this chapter help you write software.
 ## Fun Projects
 * [Drawing](https://github.com/EvansHua/Python_Corner/tree/main/Fun%20Projects/Drawing)
   * [Mickey](https://github.com/EvansHua/Python_Corner/blob/main/Fun%20Projects/Drawing/Mickey/Mickey.py) - Drawing Mickey via Turtle. My VERY FIRST Python project developed in Grade 3! Have fun!
+* [Word Cloud](https://github.com/EvansHua/Python_Corner/blob/main/Fun%20Projects/Word%20Cloud/20210620%20word%20cloud.ipynb) - Generate fancy word clouds! Enjoy!
 ## Graphics
 Libraries for graphics.
 * [turtle](https://pythonturtle.org/) - Turtle can draw intricate shapes using programs that repeat simple moves. It is a popular way for introducing programming to kids.
