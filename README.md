@@ -18,6 +18,7 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
   * [4 Number Length](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/4%20Number%20Length.py) - How many digits are in the given positive number?
   * [5 The Most Frequent](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/5%20The%20Most%20Frequent.py) - Determine the most frequently occurring string in the sequence.
   * [6 End Zeros](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/6%20End%20Zeros.py) - How many zeros are at the end?
+  * [7 Backward String]
 ## Data Science
 Libraries for Data Science.
 * [numpy](https://numpy.org/) - The fundamental package for scientific computing with Python.
