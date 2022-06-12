@@ -20,6 +20,7 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
   * [6 End Zeros](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/6%20End%20Zeros.py) - How many zeros are at the end?
   * [7 Backward String](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/7%20Backward%20String.py) - You should return a given string in reverse order.
   * [8 Easy Unpack](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/8%20Easy%20Unpack.py) - The first, third and second to the last for the given array.
+  * [9 Remove All Before](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/9%20Remove%20All%20Before.py) - Remove all the elements before the given one from the array.
 ## Data Science
 Libraries for Data Science.
 * [numpy](https://numpy.org/) - The fundamental package for scientific computing with Python.
