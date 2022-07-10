@@ -23,7 +23,7 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
   * [9 Remove All Before](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/9%20Remove%20All%20Before.py) - Remove all the elements before the given one from the array.
   * [10 All Upper I](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/10%20All%20Upper%20I.py) - Are all symbols in upper case?
   * [11 Replace First](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/11%20Replace%20First.py) - The first element should become the last one
-    * [12 Max Digit](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/12%20Max%20Digit.py) - Which digit is the biggest?
+  * [12 Max Digit](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/12%20Max%20Digit.py) - Which digit is the biggest?
 ## Data Science
 Libraries for Data Science.
 * [numpy](https://numpy.org/) - The fundamental package for scientific computing with Python.
