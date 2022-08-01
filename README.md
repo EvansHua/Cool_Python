@@ -24,6 +24,7 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
   * [10 All Upper I](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/10%20All%20Upper%20I.py) - Are all symbols in upper case?
   * [11 Replace First](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/11%20Replace%20First.py) - The first element should become the last one
   * [12 Max Digit](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/12%20Max%20Digit.py) - Which digit is the biggest?
+  * [13 Beginning Zeros](https://py.checkio.org/mission/beginning-zeros/share/06c47136cea1f467ba2b669304e1a295/) - How many zero digits ("0") are at the beginning of the given string?
 ## Data Science
 Libraries for Data Science.
 * [numpy](https://numpy.org/) - The fundamental package for scientific computing with Python.
