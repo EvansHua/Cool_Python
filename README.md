@@ -26,8 +26,7 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
   * [12 Max Digit](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/12%20Max%20Digit.py) - Which digit is the biggest?
   * [13 Beginning Zeros](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/13%20Beginning%20Zeros.py) - How many zero digits ("0") are at the beginning of the given string?
   * [14 Between Markers](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/14%20Between%20Markers.py) - Find a substring between markers
-  * [15 Split Pairs]
-  (https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/15%20Split%20Pairs.py) - Split the string into pairs of two characters.
+  * [15 Split Pairs](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/15%20Split%20Pairs.py) - Split the string into pairs of two characters.
 ## Data Science
 Libraries for Data Science.
 * [numpy](https://numpy.org/) - The fundamental package for scientific computing with Python.
