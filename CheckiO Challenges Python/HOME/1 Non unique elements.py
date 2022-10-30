@@ -1,8 +1,6 @@
 # Non unique elements
 # CheckiO: https://py.checkio.org/mission/non-unique-elements/share/9b6de30be9feba571d23cc454b7aa247/
 # By Evans Hua @ 20221002
-#Your optional code here
-#You can import some modules or create additional functions
 
 def checkio(data: list) -> list:
     #Your code here
