@@ -29,7 +29,7 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
   * [15 Split Pairs](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/15%20Split%20Pairs.py) - Split the string into pairs of two characters.
   * [16 Correct Sentence](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/16%20Correct%20Sentence.py) - Sentences should always begin with a capital letter and end with a dot.
   * [17 Is Even](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/17%20Is%20Even.py) - Check if the given number is even or not.
-  *[18 Nearest Value](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/18%20Nearest%20Value.py) - Find the nearest value to the given one
+  * [18 Nearest Value](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/18%20Nearest%20Value.py) - Find the nearest value to the given one
 ## Data Science
 Libraries for Data Science.
 * [numpy](https://numpy.org/) - The fundamental package for scientific computing with Python.
