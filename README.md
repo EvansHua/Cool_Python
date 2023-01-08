@@ -31,7 +31,7 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
   * [17 Is Even](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/17%20Is%20Even.py) - Check if the given number is even or not.
   * [18 Nearest Value](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/INITIATION/18%20Nearest%20Value.py) - Find the nearest value to the given one
  * [HOME](https://github.com/EvansHua/Python_Corner/tree/main/CheckiO%20Challenges%20Python/HOME)
-  * [01 Non unique elements)](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/HOME/01%20Non%20unique%20elements.py) - Trim an array down to its non-unique elements
+   * [01 Non unique elements)](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/HOME/01%20Non%20unique%20elements.py) - Trim an array down to its non-unique elements
 
 ## Data Science
 Libraries for Data Science.
