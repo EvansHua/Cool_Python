@@ -34,6 +34,7 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
    * [01 Non unique elements](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/HOME/01%20Non%20unique%20elements.py) - Trim an array down to its non-unique elements
    * [02 Three Words](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/HOME/02%20Three%20Words.py) - How to discern words and numbers
    * [03 Sum Numbers](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/HOME/03%20Sum%20Numbers.py) - Sum the numbers
+   * [04 Even the Last](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/HOME/04%20Even%20the%20last.py) - How to work with arrays indexes.
 
 ## Data Science
 Libraries for Data Science.
