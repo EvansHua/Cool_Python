@@ -35,6 +35,7 @@ py.CheckiO is online Python practices. Improve your coding skills by solving cod
    * [02 Three Words](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/HOME/02%20Three%20Words.py) - How to discern words and numbers
    * [03 Sum Numbers](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/HOME/03%20Sum%20Numbers.py) - Sum the numbers
    * [04 Even the Last](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/HOME/04%20Even%20the%20last.py) - How to work with arrays indexes.
+   * [05 Right to Left](https://github.com/EvansHua/Python_Corner/blob/main/CheckiO%20Challenges%20Python/HOME/05%20Right%20to%20Left.py) - “Left, right, left, right, left, left, left. Your destination is on the left.” “Wait, this isn’t where I was going…”
 
 ## Data Science
 Libraries for Data Science.
